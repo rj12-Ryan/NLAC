@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "NLAC": {
+      "commandName": "Project",
+      "commandLineArgs": "-r longTest.csv"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
